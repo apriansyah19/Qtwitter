@@ -3,6 +3,7 @@
     <q-scroll-area class="absolute full-width full-height">
       <div class="q-py-lg q-px-md row q-col-gutter-md items-end">
         <div class="col">
+          anjayss
           <q-input bottom-slots class="new-qweet" v-model="newQweetContent" autogrow placeholder="What's happening!"
             counter maxlength="280">
             <template v-slot:before>
