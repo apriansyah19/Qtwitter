@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex flex-center">
-    test
+    test anjay
     <img
       alt="Quasar logo"
       src="~assets/quasar-logo-full.svg"
